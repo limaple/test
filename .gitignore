@@ -1,0 +1,6 @@
+# those will be ignored by git
+*.[ao]
+*.out
+*~
+tmp/
+
